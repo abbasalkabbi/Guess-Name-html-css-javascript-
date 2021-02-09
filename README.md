@@ -1,5 +1,4 @@
 # Guess-Name-html-css-javascript-
 Guess-Name(html+css+javascript)
-https://github.com/abbasalkabbi/Guess-Name-html-css-javascript-/blob/main/image/readme.png
-![Test Image 4](https://github.com/tograh/testrepository/3DTest.png 945)
-<img src=“https://github.com/abbasalkabbi/Guess-Name-html-css-javascript-/blob/main/image/readme.png”>
+
+![readme](https://user-images.githubusercontent.com/75854041/107322985-88fff500-6ab6-11eb-8815-87889ca0356f.png)
